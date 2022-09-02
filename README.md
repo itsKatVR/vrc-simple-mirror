@@ -29,10 +29,10 @@ A project with the latest VRChat SDK3 Release- can be found below:
 3. Drag Simple Mirror (Prefab) into Scene.
 
 ## How it works
-The mirror system by default will enable "Local Only", the player must choose the "Full" mode to see other individuals.
+The Mirror System by default will enable "Local Only", the player must choose the "Full" mode to see other individuals.
 
-To Enable mirror, using UI Pointer- click the "Switch" button. (Power On Symbol)
-To flip through options, select the unselected icon. (Greyed out)
+-To Enable mirror, using UI Pointer- click the "Switch" button. (Power On Symbol)
+-To flip through options, select the unselected icon. (Greyed out)
 
 
 How to Edit:
