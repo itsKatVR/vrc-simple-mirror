@@ -43,13 +43,17 @@ Example:
 
 [Mirror_Local]
 - Full_Unselected
+
 [Mirror_Full]
 - Local_Unselected
 
 Example 2:
 - Full_Unselected
+
 - Local_Unselected
+
 [Mirror_Local]
+
 [Mirror_Full]
 
 When finished resizing mirror, ensure to drag "Full_Unselected" & "Local_Unselected" back into their default positions.
