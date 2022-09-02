@@ -40,6 +40,7 @@ If you would like to edit mirror size/shape please drag "Full_Unselected" & "Loc
 "Mirror_Local" & "Mirror_Full".
 
 Example:
+
 ![Simple Mirror Example Picture](https://user-images.githubusercontent.com/77287432/188236683-6a6974d7-7bee-4fb8-8380-8702f2e2d25f.PNG)
 
 When finished resizing mirror, ensure to drag "Full_Unselected" & "Local_Unselected" back into their default positions.
