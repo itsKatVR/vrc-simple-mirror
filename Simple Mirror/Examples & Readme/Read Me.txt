@@ -1,0 +1,33 @@
+Simple Mirror:
+
+Setup:
+1. Ensure you have the latest version of Udon via SDK3 World Download from VRChat.
+2. Ensure you have the latest version of UdonSharp via Merlin. (20.x)+
+3. Drag "MirrorSystem" prefab into scene via Game View, or Hierarchy.
+Note: You will know the prefab is facing the right direction if; you open the Hierarchy of-
+"MirrorSystem" & Enable briefly "Mirror_Local", this will show you by default surroundings to align the mirror.
+
+How to Use:
+The mirror system by default will enable "Local Only", the player must choose the "Full" mode to see other individuals.
+
+To Enable mirror, using UI Pointer- click the "Switch" button. (Power On Symbol)
+To flip through options, select the unselected icon. (Greyed out)
+
+How to Edit:
+If you would like to edit mirror size/shape please drag "Full_Unselected" & "Local_Unselected" from inside the parent objects of-
+"Mirror_Local" & "Mirror_Full".
+
+Example:
+
+[Mirror_Local]
+- Full_Unselected
+[Mirror_Full]
+- Local_Unselected
+
+Example 2:
+- Full_Unselected
+- Local_Unselected
+[Mirror_Local]
+[Mirror_Full]
+
+When finished resizing mirror, ensure to drag "Full_Unselected" & "Local_Unselected" back into their default positions.
