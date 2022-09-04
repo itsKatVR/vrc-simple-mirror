@@ -30,6 +30,7 @@ A project with the latest VRChat SDK3 Release- can be found below:
 
 ## How it works
 The Mirror System by default will enable "Local Only", the player must choose the "Full" mode to see other individuals.
+
 !Update! Mirror System will now remember which mode you selected after you turn it off!
 
 -To Enable mirror, using UI Pointer- click the "Switch" button. (Power On Symbol)
